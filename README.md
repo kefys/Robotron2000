@@ -1,2 +1,2 @@
 # Robotron2000
-A project made to train JavaScript
+A project to train JavaScript
